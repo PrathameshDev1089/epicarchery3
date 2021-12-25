@@ -1,0 +1,6 @@
+/* I have added extra css here to set margin and padding 0 as it was flowing out of page */
+
+*{
+    margin: 0;
+    padding: 0;
+}
